@@ -1,0 +1,13 @@
+appstart/services/PlayGameService.class
+appstart/models/TasksOfGame.class
+appstart/models/ShoppingResponse.class
+appstart/GameApplication.class
+appstart/models/Item.class
+appstart/services/TaskService.class
+appstart/services/TaskService$1.class
+appstart/models/MessageResponse.class
+appstart/models/Task.class
+appstart/services/ItemService.class
+appstart/controller/GameController.class
+appstart/services/MessageResponseService.class
+appstart/models/Game.class
